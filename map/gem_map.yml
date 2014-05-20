@@ -1,0 +1,10 @@
+---
+module:
+  name: "'ngGrid'"
+uis:
+  - name: ng-grid
+actions:
+  javascript:
+    include?: true
+  module:
+    include?: true
